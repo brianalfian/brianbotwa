@@ -118,8 +118,14 @@ you've just cloned!!
 |       ✅        |   Broadcast                |
 |       ✅        |   Premium                |
 
+## Special Thanks to
+* [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
+* [`Mhankbarbar`](https://github.com/MhankBarBar)
+* [`Fadhil Graphy`](https://github.com/MrK4ZUT0)
+
 ## whatsapp number
 * [`WhatsApp`](wa.me/6281218933913)
+
 ### Donate
 * [`gopay : +6281218933913`]
 * [`Pulsa : +6281218933913`]
