@@ -125,7 +125,7 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ┣⊱ *Level* : ${getLevelingLevel(sender)}
 ┣⊱ *Role* : ${role}
 ┣⊱ *User register* : ${_registered.length}
-┗━━━⊱  ⸨ *AFFIS* ⸩  ⊰━━━━┛
+┗━━━⊱  ⸨ *BRIAN BOT* ⸩  ⊰━━━━┛
 
  *${prefix}info*
  *${prefix}donasi*
@@ -219,15 +219,15 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ┣⊱ *${prefix}setppbot*
 ┣━━⊱ *THANGKS TO* ⊰━━┫
 ┃
-┣⊱ *AFFIS JUNIANTO* <dev>
-┣⊱ *FADHIL GRAPHY* <partner>
+┣⊱ *BRIAN ALFIAN* <dev>
+┣⊱ *NO NAME* <partner>
 ┣⊱ *MHANKBARBARS* <sc ori>
-┣⊱ *MYBOT TEAM* <team>
+┣⊱ *ANONYMOUS OFFICIAL TEAM* <team>
 ┃
 ┣⊱ NOTE : TQTO DI HAPUS
 ┃ GW GAK UP LAGI OKE
 ┃
-┗━━⊱  ⸨ *X-BOT* ⸩  ⊰━━━━┛
+┗━━⊱  ⸨ *BRIAN BOT* ⸩  ⊰━━━━┛
 `
 }
 
